@@ -1,5 +1,5 @@
 # Download
-![Mac](https://snail-ide.github.io/Desktop-Download/m.png)
-[Mac](https://snail-ide.github.io/Desktop-Download/Mac.zip)
+![Mac]((https://mrdev88.github.io/online-run-game-app/m.png))
+[Mac]()
 
 ***Click any of those links to download it***
